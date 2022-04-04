@@ -8,6 +8,6 @@ _Note that the majority of code that I have written would be under the TODO sect
 
 This project is a quick introduction to computer graphics programming using Javascript, WebGL, and three.js. Through this homework, you will ensure WebGL runs correctly in your browser and experiment with some basic features of a provided demo program.
 
-_TODO sections in glWarmup.js; one written question, adding two additional shapes to the program (TorusKnot and TorusKnot2 mesh), modifying the code to be able to rotate objects horizontally.
+_TODO sections in glWarmup.js; one written question, adding two additional shapes to the program (TorusKnot and TorusKnot2 mesh), modifying the code to be able to rotate objects horizontally._
 
 ## Image Processing
