@@ -11,3 +11,7 @@ This project is a quick introduction to computer graphics programming using Java
 _TODO sections in glWarmup.js; one written question, adding two additional shapes to the program (TorusKnot and TorusKnot2 mesh), modifying the code to be able to rotate objects horizontally._
 
 ## Image Processing
+
+In this project, you will implement several image processing algorithms, including pixel operations, convolution, dithering, and mosaicing. 
+
+_TODO sections in imProcess.js; implement adjustContrast, adjustSaturation, sharpen, uniformQuantization, randomDither, orderedDither, imageMosaic._
