@@ -14,4 +14,17 @@ _TODO sections in glWarmup.js; one written question, adding two additional shape
 
 In this project, you will implement several image processing algorithms, including pixel operations, convolution, dithering, and mosaicing. 
 
-_TODO sections in imProcess.js; implement adjustContrast, adjustSaturation, sharpen, uniformQuantization, randomDither, orderedDither, imageMosaic._
+_TODO sections in imProcess.js; implement functions adjustContrast, adjustSaturation, sharpen, uniformQuantization, randomDither, orderedDither, imageMosaic._
+
+## Curves
+
+In this project, you will implement algorithms to compute Bezier, B-Spline, and Hermite curves. The starter code can then generate and render surfaces of revolution using the curves you compute.
+
+_TODO sections in curves.js; implement functions Beizier, BSpline, Hermite, use your implementation to generate two novel surfaces of revolution of your own design._
+
+## Subdivision
+
+In this project, you will implement Loop’s subdivision algorithm to generate subdivided surfaces.
+
+_TODO sections in subdivision.js; implement function subdivide._
+
